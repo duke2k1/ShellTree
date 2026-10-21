@@ -1,4 +1,5 @@
 bin/
+.packages/
 obj/
 *.user
 *.suo
