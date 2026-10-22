@@ -1,3 +1,7 @@
+![ShellTree logo](assets/logo.png)
+
+![ShellTree preview](assets/bidirectional-preview.png)
+
 # ShellTree v0.30
 
 ## Updating listings and managing remote items
