@@ -1,4 +1,4 @@
-![ShellTree logo](assets/logo.jpg)
+![ShellTree logo](assets/logo.png)
 
 ![ShellTree preview](assets/bidirectional-preview.png)
 
