@@ -1,3 +1,8 @@
+## Download
+
+**[Download the Latest Version of FetchTree](https://github.com/duke2k1/ShellTree/releases/latest)**
+
+Download the latest release for Windows from the GitHub Releases page.
 ![ShellTree logo](assets/logo.png)
 
 ![ShellTree preview](assets/bidirectional-preview.png)
